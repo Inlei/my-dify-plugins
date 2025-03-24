@@ -1,6 +1,6 @@
 # My Dify Plugins
 
-This repository contains the source code for plugins I've personally developed and contributed to the [Dify Marketplace]([https://dify.ai/](https://cloud.dify.ai/plugins?category=discover)), enhancing the capabilities of Dify AI agents, including models, tools, extensions, and agent strategies.
+This repository contains the source code for plugins I've personally developed and contributed to the [Dify Marketplace](https://cloud.dify.ai/plugins?category=discover), enhancing the capabilities of Dify AI agents, including models, tools, extensions, and agent strategies.
 
 ## Quick Start
 
